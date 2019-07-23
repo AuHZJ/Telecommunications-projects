@@ -14,6 +14,7 @@
         <module>ct-consumer</module>
         <module>ct-coprocessor</module>
         <module>ct-analysis</module>
+        <module>ct-web</module>
     </modules>
 
 
